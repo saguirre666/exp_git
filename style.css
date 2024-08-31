@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    padding: 0%;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+
+nav {
+    background-color: burlywood;
+}
+
+main {
+    background-color: crimson;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+    margin: auto;
+    line-height: 30px;
+}
+
+p {
+    text-align: left;
+    line-height: 22px;
+}
+
+img {
+    width: 100%;
+    margin: 50px auto;
+}
+
+.img1 {
+    width: 50%;
+    margin: auto;   
+}
+
+.galeria {
+    background-color: rgb(85, 115, 211);
+}
+
+.galeria img {
+    width: 14.7%;
+    border: 3px dashed red;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+#diferente {
+    border-radius: 50%;
+}
